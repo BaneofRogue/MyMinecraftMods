@@ -1,6 +1,6 @@
-### JustOneCoder's mods
+# JustOneCoder's mods
 
-# AllBlockStatistic
+### AllBlockStatistic
 Modloader: Fabric
 Type: Singleplayer
 Version: 1.21.1
